@@ -1,0 +1,8 @@
+name: DiamondAlert
+version: 1.0
+main: me.cherry.DiamondAlert
+api-version: 1.20
+permissions:
+  diamondalert.notify:
+    description: Receive diamond ore alerts
+    default: op
