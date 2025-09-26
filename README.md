@@ -56,7 +56,7 @@ Built with:
 
 To build from source:
 ```bash
-git clone https://github.com/your-username/DiamondAlert.git
+git clone https://github.com/Ganesh-M01/DiamondAlert.git
 cd DiamondAlert
 mvn clean package
 ```
